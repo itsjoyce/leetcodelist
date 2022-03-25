@@ -1,0 +1,419 @@
+{
+  "main": {
+    "name": "Leetcode List",
+    "description": "Collected by topic, company, and experience",
+    "image": "profilepic.jpg",
+    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "address": {
+      "street": "(Your Street)",
+      "city": "(Your City)",
+      "state": "(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/tim.baker.906",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/tbakerx",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  
+  "type": {
+    "string": [{
+      "id": "165",
+      "title":"Compare Version Numbers"
+      },
+      {
+        "id": "214",
+        "title":"Shortest Palindrome"
+      },{
+        "id": "43",
+        "title":"Multiply Strings"
+      },
+      {
+        "id": "306",
+          "title":"Addictive Number"
+      },{
+        "id": "459",
+        "title":"Repeated Substring Patter"
+      },
+      {
+        "id": "777",
+        "title":"Swap Adjacent in LR String"
+      },{
+        "id": "792",
+        "title":"Number of Matching Subsequences"
+      }
+    ],
+    "ds":[{
+      "id": "200",
+      "title": "Number of Island"
+    },{
+      "id": "130",
+      "title": "Surrounded Regions"
+    },{
+      "id": "684",
+      "title": "Redundant Connection"
+      },{
+        "id": "128",
+        "title": "Longest Consecutive Sequence"
+      }
+    ],
+
+    "recursion":[{
+      "id": "21",
+      "title": "Merge Two Sorted Lists"
+      },{
+      "id": "369",
+      "title": "Plus One Linked List"
+      },{
+      "id": "2",
+      "title": "Add Two Numbers"
+      },{
+        "id": "24",
+        "title": "Swap Nodes in Pairs"
+      },{
+        "id": "160",
+        "title": "Intersection of Two Linked Lists"
+      },{
+        "id": "260",
+        "title": "Reverse Linked List"
+      }
+      ,{
+        "id": "92",
+        "title": "Reverse Linked List II"
+      }
+      ,{
+        "id": "19",
+        "title": "Remove Nth Node From End of List"
+      }
+    ],
+
+    "tree":[{
+      "id": "94",
+      "title": "Binary Tree Inorder Tranversal"
+      },{
+      "id": "98",
+      "title": "Validate Binary Search Tree"
+      },{
+      "id": "199",
+      "title": "Binary Tree Right Side View"
+      },{
+        "id": "24",
+        "title": "Swap Nodes in Pairs"
+      },{
+        "id": "100",
+        "title": "Same Tree"
+      },{
+        "id": "101",
+        "title": "Symmetric Tree"
+      }
+      ,{
+        "id": "104",
+        "title": "Maximum Depth of Binary Tree"
+      }
+      ,{
+        "id": "114",
+        "title": "Flatten Binary Tree to Linked List"
+      },{
+        "id": "108",
+        "title": "Convert Sorted Array to Binary Search Tree"
+      },{
+        "id": "437",
+        "title": "Path Sum III"
+      },{
+        "id": "105",
+        "title": "Construct Binary Tree from Preorder and Inorder Traversal"
+      }
+    ],
+    
+    "bfsdfs":[{
+      "id": "286",
+      "title": "Walls and Gates"
+      },{
+      "id": "102",
+      "title": "Binary Tree Level Order Traversal"
+      },{
+      "id": "111",
+      "title": "Minimum Depth of Binary Tree"
+      },{
+        "id": "200",
+        "title": "Number of Islands"
+      },{
+        "id": "116",
+        "title": "Populating Next Right Pointers in Each Node"
+      }
+    ],
+    "backtracking":[{
+      "id": "46",
+      "title": "Permutations"
+      },{
+      "id": "77",
+      "title": "Combinations"
+      },{
+      "id": "17",
+      "title": "Letter Combination of a Phone Number"
+      }
+    ]
+  },
+
+  "company": {
+    "Akuna": {
+      "time":"2021-3-23", 
+      "questions":[{
+        "id": "239",
+        "title":"Sliding Window Maximum"
+        },{
+          "id": "214",
+          "title":"Shortest Palindrome"
+        }]
+    },
+    "Audible":{
+      "time": "2021-11-5",
+      "questions": [{
+        "id": "56",
+        "title": "Merge Intervals"
+        },{
+        "id": "387",
+        "title": "First Unique Character in a String"
+        },{
+        "id": "92",
+        "title": "Reverse Linked List II"
+        },{
+          "id": "1492",
+          "title": "The kth Factor of n"
+        },{
+          "id": "786",
+          "title": "K-th Smallest Prime Fraction"
+        },{
+          "id": "546",
+          "title": "emove Boxes"
+        }
+        ,{
+          "id": "209",
+          "title": "Minimum Size Subarray Sum"
+        }
+        ,{
+          "id": "114",
+          "title": "Flatten Binary Tree to Linked List"
+        },{
+          "id": "146",
+          "title": "LRU Cache"
+        },{
+          "id": "1481",
+          "title": "Least Number of Unique Integers after K Removals"
+        },{
+          "id": "20",
+          "title": "valid parentheses"
+        }
+        ,{
+          "id": "21",
+          "title": "Merge two sorted list"
+        },{
+          "id": "49",
+          "title": "Group Anagrams"
+        },{
+          "id": "1135",
+          "title": "Connecting Cities With Minimum Cost"
+        },{
+          "id": "287",
+          "title": "Find the Duplicate Number"
+        },{
+          "id": "829",
+          "title": "Consecutive Numbers Sum"
+        },{
+          "id": "221",
+          "title": "Maximal Square"
+        },{
+          "id": "14",
+          "title": "Two Sum Unique Pairs"
+        }
+      ]
+    },
+    
+    "bloomberg-20210-11-15":{
+      "time":"2021-11-9",
+      "questions":[{
+        "id": "42",
+        "title": "Trapping Rain Water"
+        },{
+        "id": "135",
+        "title": "Candy"
+        },{
+          "id": "146",
+          "title": "LRU Cache"
+        },{
+        "id": "124",
+        "title": "Binary Tree Maxium Path Sum"
+        },{
+          "id": "1169",
+          "title": "Invalid Transactions"
+        },{
+          "id": "1244",
+          "title": "Desgin a Leaderboard"
+        },{
+          "id": "723",
+          "title": "My Calendar i"
+          },{
+          "id": "1209",
+          "title": "Remove all adjacent duplicates in string ii"
+          },{
+            "id": "199",
+            "title": "Binary Tree Right Side View"
+          },{
+          "id": "79",
+          "title": "Word Search"
+          },{
+            "id": "1396",
+            "title": "design underground system"
+          },{
+            "id": "429",
+            "title": "n-ary tree level order traversal"
+          },{
+            "id": "199",
+            "title": "Binary Tree Right Side View"
+          },{
+          "id": "200",
+          "title": "Number of Islands"
+          },{
+            "id": "91",
+            "title": "Decode Ways"
+          },{
+            "id": "430",
+            "title": "Flattern doubly linked list"
+          },
+          {
+            "id": "1209",
+            "title": "two city scheduling"
+            },{
+              "id": "12",
+              "title": "integer to roman"
+            },{
+              "id": "24",
+              "title": "swap nodes in pairs"
+            },{
+              "id": "572",
+              "title": "subtree of another tree"
+            },{
+            "id": "380",
+            "title": "Insert Delete GetRandom O1"
+            },{
+              "id": "109",
+              "title": "shortest path in binary matrix"
+            },{
+              "id": "273",
+              "title": "remove all adjacent duplicates in string ii"
+            },
+            {
+              "id": "542",
+              "title": "01 matrix"
+              },{
+                "id": "1249",
+                "title": "minimum remove to make valid parentheses"
+              },{
+                "id": "445",
+                "title": "Add Two Numbers II"
+              },{
+                "id": "114",
+                "title": "Flatten Binary Tree to Linked List"
+              },{
+              "id": "4",
+              "title": "longest substring without repeating characters"
+              },{
+                "id": "88",
+                "title": "merge sorted array"
+              },{
+                "id": "897",
+                "title": "vertical order of traversal of a binary tree"
+              },{
+                "id": "1396",
+                "title": "Design Underground System"
+              },
+              {
+                "id": "155",
+                "title": "Min Stack"
+                },{
+                  "id": "543",
+                  "title": "Diameter of Binary Tree"
+                },{
+                  "id": "207",
+                  "title": "Course Schedule"
+                },{
+                  "id": "127",
+                  "title": "Word Ladder"
+                }]
+    }
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
