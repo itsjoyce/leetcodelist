@@ -366,8 +366,238 @@
                 },{
                   "id": "127",
                   "title": "Word Ladder"
-                }]
-    }
+                }]},
+       "C3AI":{
+          "time":"2021-11-3",
+          "questions":[{
+          "id": "127",
+          "title": "word ladder"
+          },{
+          "id": "987",
+          "title": "vertical order traversal of a binary tree"
+          },{
+            "id": "399",
+            "title": "evaluate division"
+          },{
+          "id": "34",
+          "title": "find first and last position of element in sorted array"
+          },{
+            "id": "224",
+            "title": "basic calculator"
+          },{
+            "id": "11",
+            "title": "container with most water"
+          },{
+            "id": "739",
+            "title": "daily temperatures"
+            },{
+            "id": "42",
+            "title": "trapping rain water"
+            },{
+              "id": "92",
+              "title": "reverse linked list ii"
+            },{
+            "id": "52",
+            "title": "maximum product subarray"
+            },{
+              "id": "39",
+              "title": "combination sum"
+            },{
+              "id": "79",
+              "title": "word search"
+            },{
+              "id": "322",
+              "title": "coin change"
+            },{
+            "id": "20",
+            "title": "valid parenthesis"
+            },{
+              "id": "53",
+              "title": "maximum subarray"
+            },{
+              "id": "526",
+              "title": "beautiful arrangement"
+            },
+            {
+              "id": "692",
+              "title": "top k frequent words"
+              },{
+                "id": "1220",
+                "title": "count vowels permutation"
+              },{
+                "id": "1282",
+                "title": "group the people givien the group size they belong to"
+              },{
+                "id": "1419",
+                "title": "minimum number of grogs croaking"
+              },{
+              "id": "1636",
+              "title": "Sort Array by Increasing Frequency"
+              }]
+       },
+        "Databricks":{
+            "time":"2021-9-8",
+            "questions":[{
+            "id": "329",
+            "title": "longest increasing path in a matrix"
+            },{
+            "id": "48",
+            "title": "rotate image"
+            },{
+              "id": "7",
+              "title": "reverse image"
+            },{
+            "id": "57",
+            "title": "insert interval"
+            }]},
+            
+            "Godman Sachs":{
+              "time":"2022-3-9",
+              "questions":[{
+                "id": "166",
+                "title": "fraction to recurring decimal"
+                },{
+                "id": "32",
+                "title": "longest valid parentheses"
+                },{
+                  "id": "20",
+                  "title": "valid parentheses"
+                },{
+                "id": "42",
+                "title": "trapping rain water"
+                },{
+                  "id": "41",
+                  "title": "first missing positive"
+                },{
+                  "id": "3",
+                  "title": "longest substring without repeating characters"
+                },{
+                  "id": "1865",
+                  "title": "finding pairs with a certain sum"
+                  },{
+                  "id": "83",
+                  "title": "remove duplicates from sorted list"
+                  },{
+                    "id": "780",
+                    "title": "reaching points"
+                  },{
+                  "id": "647",
+                  "title": "Palindromic Substrings"
+                  },{
+                    "id": "706",
+                    "title": "design hashmap"
+                  },{
+                    "id": "49",
+                    "title": "group anagrams"
+                  },{
+                    "id": "592",
+                    "title": "fraction addition and subtraction"
+                  },{
+                  "id": "1086",
+                  "title": "high five"
+                  },{
+                    "id": "91",
+                    "title": "Decode Ways"
+                  },{
+                    "id": "1041",
+                    "title": "Robot Bounded In Circle"
+                  },
+                  {
+                    "id": "933",
+                    "title": "number of recent calls"
+                    }
+                ]},
+      "Microsoft":{
+          "time":"2021-12-13",
+          "questions":[{
+          "id": "151",
+          "title": "reverse words in a string"
+          },{
+          "id": "24",
+          "title": "swap nodes in pairs"
+          },{
+            "id": "445",
+            "title": "add two numbers ii"
+          },{
+          "id": "234",
+          "title": "palindrome linked list"
+          },{
+            "id": "168",
+            "title": "Excel Sheet Column Title "
+          },{
+            "id": "25",
+            "title": "remove duplicates from sorted array"
+          },{
+            "id": "20",
+            "title": "valid parentheses"
+            },{
+            "id": "344",
+            "title": "reverse string"
+            },{
+              "id": "155",
+              "title": "min stack"
+            },{
+            "id": "74",
+            "title": "Search a 2D Matrix"
+            },{
+              "id": "245",
+              "title": "shortest word distance iii"
+            },{
+              "id": "234",
+              "title": "palindrome linked list"
+            }]
+      },
+      "Salesforce":{
+        "time":"2021-10-8",
+        "questions":[{
+        "id": "239",
+        "title": "sliding window maximum"
+        },{
+        "id": "441",
+        "title": "arranging coins"
+        },{
+          "id": "698",
+          "title": "add two numbers ii"
+        },{
+        "id": "234",
+        "title": "partition to k equal sum subsets"
+        },{
+          "id": "1629",
+          "title": "slowest key"
+        },{
+          "id": "416",
+          "title": "Partition string into same sum"
+        },{
+          "id": "252",
+          "title": "meeting rooms"
+          },{
+          "id": "344",
+          "title": "reverse string"
+          }]
+    },
+
+    "Tiktok":{
+      "time":"2021-10-17",
+      "questions":[{
+      "id": "1860",
+      "title": "Incremental Memory Leak"
+      },{
+      "id": "56",
+      "title": "merge intervals"
+      },{
+        "id": "66",
+        "title": "plus one"
+      }
+    ]
+  }
+
+
+
+
+
+
+
+
   },
   "portfolio": {
     "projects": [
