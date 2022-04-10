@@ -4,14 +4,16 @@ class Testimonials extends Component {
   render() {
 
     if(this.props.data){
-      var testimonials = this.props.data.testimonials.map(function(testimonials){
+      var testimonials = this.props.data.concept.map(function(testimonials){
+         var url = testimonials.link;
         return  <li key={testimonials.user}>
             <blockquote>
-               <p>{testimonials.text}</p>
-               <cite>{testimonials.user}</cite>
+               <a href={url} target="_blank" rel="noreferrer noopener">{testimonials.text}</a>
             </blockquote>
          </li>
       })
+//   <a title="Styleshout" href={url} target="_blank" rel="noreferrer noopener">{
+
     }
 
     return (
